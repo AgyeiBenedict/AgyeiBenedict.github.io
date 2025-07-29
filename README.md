@@ -1,1 +1,15 @@
-# AgyeiBenedict.github.io
+do-student-project/
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   └── templates/
+│       └── index.html
+├── .github/
+│   └── workflows/
+│       └── test.yml
+├── .gitignore
+├── Dockerfile
+├── README.md
+├── digitalocean.md
+├── requirements.txt
+└── setup.cfg
